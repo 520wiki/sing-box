@@ -1,3 +1,5 @@
+# 一键安装
+bash <(wget -qO- -o- https://github.com/520wiki/sing-box/raw/main/install.sh)
 # 介绍
 
 最好用的 sing-box 一键安装脚本 & 管理脚本
